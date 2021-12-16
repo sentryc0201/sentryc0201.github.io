@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "git&github"
+date:   2021-12-16 19:10:20 +0900
+categories: jekyll update
+comments: true
+---
+
 #Explain about git
 git이란 소스코드 관리를 위해 나온 시스템으로 모든 코드작업의 대해 기록, 추적이 가능한 정보들을 가지고있다. 또한 다양한 명령어를 이용하여 git서버와 컴퓨터를 연동한다.
 
