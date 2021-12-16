@@ -7,15 +7,15 @@ comments: true
 ---
 
 Explain about git
-===
+---
 git이란 소스코드 관리를 위해 나온 시스템으로 모든 코드작업의 대해 기록, 추적이 가능한 정보들을 가지고있다. 또한 다양한 명령어를 이용하여 git서버와 컴퓨터를 연동한다.
 
 Explain about github
-===
+---
 github란 소스코드를 자유롭게 열람할 수 있고 버그관리와 같은 기능이 있는 소프트웨어 소스코드 관리 서비스이다.
 
 git 명령어
-===
+---
 #git clone
 아래 명령어를 이용하여 local repository를 git과 연동한다.
 ```bash
